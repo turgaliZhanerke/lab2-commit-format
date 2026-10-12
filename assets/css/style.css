@@ -25,3 +25,26 @@ body {
     text-decoration: none;
     margin-left: 20px;
 }
+.main {
+    padding: 40px 24px;
+    min-height: 60vh;
+    background-color: #f4f4f4;
+}
+
+.hero,
+.about {
+    max-width: 900px;
+    margin: 0 auto 32px;
+    padding: 24px;
+    background-color: white;
+    border-radius: 12px;
+}
+
+.main h2 {
+    margin-bottom: 16px;
+}
+
+.main p {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
